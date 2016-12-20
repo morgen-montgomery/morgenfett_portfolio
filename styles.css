@@ -5,5 +5,9 @@ body {
 
 .navbar {
   background: black;
-  color: #E6D6A6;
+  border-color: black;
+}
+
+ul {
+  list-style-type: none;
 }
